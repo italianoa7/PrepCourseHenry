@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Este es un repositorio del modulo2 del prueba del PrepCourseHenry
+Este es una prueba de como crear un repositorio y clonarlo desde git a mi laptop
